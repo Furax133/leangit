@@ -14,3 +14,7 @@ editing readme dor test pull request
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `api_key` | `string` | **Required**. Your API key |
+
+
+
+- [@Furax133](https://github.com/Furax133/leangi)
